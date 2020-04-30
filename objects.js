@@ -4,6 +4,6 @@ var playlist = {
   Prince : 'Purple Rain'
   };
 function updatePlaylist(playlist, artist, song){
-  playlist.artist = song
+  playlist[aritst] = song
   return playlist
 }
