@@ -4,5 +4,5 @@ var playlist = {
   Prince : 'Purple Rain'
   };
 function updatePlaylist(playlist, artist, song){
-  return playlist.assign({},playlist,{[artist]: song})
+  return Object.assign({},playlist,{[artist]: song})
 }
