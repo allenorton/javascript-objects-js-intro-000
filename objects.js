@@ -1,6 +1,6 @@
 var playlist = {
   MichaelJ : 'Thriller',
-  BritneySpears : 'Stronger', 
+  BritneySpears : 'Stronger',
   Prince : 'Purple Rain'
   };
 function updatePlaylist(playlist, artist, song){
