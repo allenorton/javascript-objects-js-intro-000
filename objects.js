@@ -1,5 +1,5 @@
 var playlist = {
-  Michael Jackson : 'Thriller',
-  Britney Spears : 'Stronger'
+  MichaelJ : 'Thriller',
+  BritneySpears : 'Stronger', 
   Prince : 'Purple Rain'
   };
