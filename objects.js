@@ -4,6 +4,6 @@ var playlist = {
   Prince : 'Purple Rain'
   };
 function updatePlaylist(playlist, artist, song){
-  playlist.nwa = "Gangsta"
+  playlist.artist = song
   return playlist
 }
